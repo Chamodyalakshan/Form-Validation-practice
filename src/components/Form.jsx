@@ -42,6 +42,10 @@ function Form() {
             
 
         };
+
+        formData.email=""
+        formData.password=""
+
         
     }
 
